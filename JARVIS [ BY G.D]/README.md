@@ -6,8 +6,8 @@
 FULL SOURCE CODE WILL BE UPDATED SOON!
 ## Features
 
-#### For a cool demo of this project watch this [YouTube video](https://www.youtube.com/watch?v=oKtrHy0ERNA)
-
+#### For a cool demo of this project watch this [YouTube video](https://www.youtube.com/watch?v=Z5rdSA0lvNo)
+#### [WEBSITE] https://www.codesempai.ml/2021/06/jarvis-ai-using-python-arduino.html
 It can do a lot of cool things, some of them being:
 
 - Greet user
